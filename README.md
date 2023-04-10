@@ -33,6 +33,3 @@ O diretório css contém o arquivo estilo.css que define o estilo do site. O dir
 ![Seletores](https://github.com/guifabrin/escritorio-de-advocacia/blob/main/docs/seletores.png?raw=true)
 
 ![Advogadas](https://github.com/guifabrin/escritorio-de-advocacia/blob/main/docs/advogadas.png?raw=true)
-
-## Licença 📄
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
