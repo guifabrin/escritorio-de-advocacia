@@ -1,0 +1,115 @@
+
+h5,
+b,
+a {
+    color: #c89939;
+    text-decoration: none;
+}
+
+.gold {
+    background: #c89939 !important;
+    border-color: #c89939 !important;
+}
+
+.gold-2 {
+    background: #c89939 !important;
+    border-color: #c89939 !important;
+}
+
+.gold-3 {
+    background: #7a6b4d !important;
+    border-color: #7a6b4d !important;
+}
+
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: #131418;
+    color: #999;
+}
+
+.super > div {
+    flex-direction: column;
+}
+
+.super .informacoes input {
+    margin-right: 10px;
+}
+
+.super .assuntos ul {
+    list-style: none;
+    padding: 0;
+}
+
+.super .assuntos ul li {
+    margin: 10px 0;
+    display: block;
+}
+
+.super .advogadas .btn {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.super .advogadas ul li {
+    padding: 5px;
+}
+
+.super .advogadas ul li img {
+    width: 100%;
+}
+
+.super .advogadas ul li p {
+    margin-bottom: 0;
+}
+
+.super .advogadas ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+}
+
+.logo {
+    max-width: 250px;
+    display: block;
+    padding: 25px;
+    border-radius: 131px;
+    margin: auto auto 25px;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+}
+
+footer > div > div {
+    min-width: 350px;
+}
+
+.margin-auto {
+    margin: auto !important;
+}
+
+.fixed-width {
+    width: 350px;
+}
+
+.social,
+.endereco {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.social {
+    display: flex;
+}
+
+.social > a {
+    flex: 1;
+    text-align: center;
+}
+
+.endereco {
+    text-align: center;
+}
